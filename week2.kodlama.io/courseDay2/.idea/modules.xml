@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/courseDay2.iml" filepath="$PROJECT_DIR$/courseDay2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oopWithNLayer/oopWithNLayer.iml" filepath="$PROJECT_DIR$/oopWithNLayer/oopWithNLayer.iml" />
+    </modules>
+  </component>
+</project>
